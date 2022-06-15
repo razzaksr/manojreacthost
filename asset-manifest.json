@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/manojreacthost/static/css/main.fa94a4d4.css",
-    "main.js": "/manojreacthost/static/js/main.5ca40d99.js",
+    "main.js": "/manojreacthost/static/js/main.82783fce.js",
     "static/media/bootstrap-icons.woff?": "/manojreacthost/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
     "static/media/bootstrap-icons.woff2?": "/manojreacthost/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
     "index.html": "/manojreacthost/index.html",
     "main.fa94a4d4.css.map": "/manojreacthost/static/css/main.fa94a4d4.css.map",
-    "main.5ca40d99.js.map": "/manojreacthost/static/js/main.5ca40d99.js.map"
+    "main.82783fce.js.map": "/manojreacthost/static/js/main.82783fce.js.map"
   },
   "entrypoints": [
     "static/css/main.fa94a4d4.css",
-    "static/js/main.5ca40d99.js"
+    "static/js/main.82783fce.js"
   ]
 }
