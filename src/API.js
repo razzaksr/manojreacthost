@@ -21,6 +21,11 @@ let hi=[
     },
 ]
 
+export const callCreate=(obj)=>{
+    hi.push(obj)
+    callList()
+}
+
 export const callList=()=>{
     return hi;
 }
